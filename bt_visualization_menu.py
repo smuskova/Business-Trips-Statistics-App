@@ -156,4 +156,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("© 2025 • Author: Seyhan Muskova • [GitHub Repo](https://github.com/yourrepo)", unsafe_allow_html=True)
+st.markdown("© 2025 • Author: Seyhan Muskova • [GitHub Repo](https://github.com/smuskova/Business-Trips-Statistics-App.git)", unsafe_allow_html=True)
